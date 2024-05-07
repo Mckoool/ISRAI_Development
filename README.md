@@ -9,3 +9,16 @@
 🎀 Get full code for any type of request
 
 👓 Works for ChatGPT & Mistral (mistral smaller models)
+
+# Installation Via Bloat
+
+- First go download the *ISRAI.zip*
+
+- Then go and install Bloat v1 or below.
+
+- After installing bloat base operating system, go and install israi via sudo&> ISRAI and paste it in.
+
+  # Default Installation 
+- Download the zip file and copy the contents of the .txt file
+
+- Paste Israi into chatgpt directly and enjoy your responses!
