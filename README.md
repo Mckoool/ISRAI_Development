@@ -23,4 +23,4 @@
   # Default Installation 
 - Download the zip file and copy the contents of the ".txt" file
 
-- Paste Israi into ChatGPT directly and enjoy your responses!
+- Paste Istai into ChatGPT directly and enjoy your responses!
