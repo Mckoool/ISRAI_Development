@@ -1,4 +1,4 @@
-![DALL·E 2024-10-31 18 34 22 - A sleek, futuristic logo design for 'ISRAI' with a powerful, AI-inspired look  The design should have bold, metallic letters with a slight neon-blue g](https://github.com/user-attachments/assets/bc2cabec-0163-445d-bfec-3a5afc9eb2f3)
+![DALL·E 2024-10-31 18 34 22 - A sleek, futuristic logo design for 'ISRAI' with a powerful, AI-inspired look  The design should have bold, metallic letters with a slight neon-blue g](https://github.com/user-attachments/assets/bc2cabec-0163-445d-bfec-3a5afc9eb2f3 =100x20)
 
 # ISTAI - An improved ChatGPT-based Code writer!
 
