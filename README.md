@@ -19,6 +19,6 @@
 - After installing bloat base operating system, go and install israi via sudo&> ISRAI and paste it in.
 
   # Default Installation 
-- Download the zip file and copy the contents of the .txt file
+- Download the zip file and copy the contents of the ".txt" file
 
-- Paste Israi into chatgpt directly and enjoy your responses!
+- Paste Israi into ChatGPT directly and enjoy your responses!
